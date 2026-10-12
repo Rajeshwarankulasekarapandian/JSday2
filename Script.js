@@ -1,12 +1,12 @@
 // TAsk 1
 var fi = 10;
 fi = 20;
-console.log(a); // Output: 20
+console.log(fi); // Output: 20
 
 //task2
 var nu = 10;
 mu = 20;
-console.log(x); // Output: 20
+console.log(nu); // Output: 20
 
 //TAsk 3
 let score = 100;
@@ -30,9 +30,6 @@ console.log(myCity);
 let userName = prompt("Enter your name:");
 alert("Hello, " + userName + "!");
 
-//task 8
-let userName = prompt("Enter your name:");
-alert("Hello, " + userName + "!");
 
 //task9
 let knowsJS = confirm("Do you know JavaScript?");
@@ -98,7 +95,7 @@ console.log(--w); // Output: 9
 
 //task19
 let u = 5;
-let v = x++;
+let v = u++;
 
 console.log(u);
 console.log(v);
@@ -152,17 +149,17 @@ console.log(i); // Output: 8
 //task28
 let h = 3;
 h = h++; 
-console.log(b); // Output: 3
+console.log(h); // Output: 3
 
 //task29
 let f = 4;
-let g = c++;
+let g = f++;
 console.log("f:", f); // Output: f: 5
 console.log("d:", g); // Output: g: 4
 
 //task30
 let d = 5;
-let e = --e;
+let e = --d;
 console.log("d:", d); // Output: d: 4
 console.log("e:", e); // Output: e: 4
 
